@@ -1,0 +1,26 @@
+{
+  "name": "player_one",
+  "displayName": "Player One",
+  "description": "Retro Game Theme VSCode Theme",
+  "publisher": "KrishVora",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "repository": {
+    "type": "git"
+
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Player One Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PlayerOne-color-theme.json"
+      }
+    ]
+  }
+}
