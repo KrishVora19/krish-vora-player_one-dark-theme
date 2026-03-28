@@ -3,7 +3,7 @@
   "displayName": "Player One",
   "description": "Retro Game Theme VSCode Theme",
   "publisher": "KrishVora",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "engines": {
     "vscode": "^1.106.1"
   },
