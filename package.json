@@ -23,7 +23,7 @@
   "categories": [
     "Themes"
   ],
-  "icon": "images/icon.png",
+  "icon": "images/logo.png",
   "contributes": {
     "themes": [
       {
